@@ -1,0 +1,41 @@
+head{
+    background-color: black;
+}
+div{
+    height: 500px;
+    width: 24.5%;
+    background-color: rgb(168, 100, 100);
+    border: white 2px ridge;
+    float: left;
+    color: white;
+    padding: 2px;}
+    
+    h2{
+        text-align: center;
+        color:rgb(224, 210, 11);
+    }
+    h3{
+        color: rgb(15, 29, 1);
+    }
+    
+    img{
+        height: 25%;
+        width: 25%;
+    }
+    H1{
+        color: blueviolet;
+        text-align: center;
+    }
+        body{
+            background-color:  rgb(168, 100, 100;
+        }
+        #div2{background-color: aquamarine;
+            height: 100px;
+            width: 15%;
+            border-radius: 1px;
+
+        }
+        p{
+            color: yellowgreen;
+        }
+
